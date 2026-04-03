@@ -1,0 +1,4 @@
+mcp
+spotipy
+python-dotenv
+lingua-language-detector
